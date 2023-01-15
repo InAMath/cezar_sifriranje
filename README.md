@@ -31,7 +31,10 @@ This image may take a few minutes to refresh.
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
 
 
+
 UPUTE ZA MICROBIT: 
  Tipka A: odabir slova koje želimo šifrirati
+ 
  Tipka B: odabir ključa 
+ 
  Tipke A i B istovremeno: odabrano slovo šifira se i pokazuje se šifrat
