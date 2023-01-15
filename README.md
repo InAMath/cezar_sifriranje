@@ -32,6 +32,10 @@ This image may take a few minutes to refresh.
 
 
 
+
+
+
+
 UPUTE ZA MICROBIT: 
  Tipka A: odabir slova koje želimo šifrirati
  
