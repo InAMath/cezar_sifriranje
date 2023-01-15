@@ -31,9 +31,11 @@ This image may take a few minutes to refresh.
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
 
 
-This is the program for Microbit which enables encryption with the Caesar cipher
+
 
 ## INSTRUCTIONS FOR MICROBIT
+
+This is the program for Microbit which enables encryption with the Caesar cipher
 
  A: selecting the letter you want to encript
  
